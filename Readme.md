@@ -30,8 +30,10 @@ After downloading, please place all .pt files into their respective directories 
 # 🔧 Quick Start
 Launch the Streamlit-based web demo:
 
+```
 cd llm_script/web_demo
 streamlit run main.py
+```
 
 # 🚀 Key Features
 1、Inverse design from mechanical properties (e.g., Young’s modulus, Poisson’s ratio)
@@ -42,6 +44,7 @@ streamlit run main.py
 # 🛠️ Key Dependencies
 Ensure the following core packages are installed to avoid compatibility issues:
 
+```
 Package	Version
 torch	2.2.0+cu118
 transformers	4.51.3
@@ -54,3 +57,4 @@ numpy	1.24.4
 pandas	2.2.3
 matplotlib	3.10.1
 sentencepiece	0.2.0
+```
