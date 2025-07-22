@@ -4,6 +4,7 @@ TrussGPT is a large language model (LLM)-driven generative framework for the inv
 # 📁 Model Weight Structure (model/)
 The model weights required for this project are organized under the model/ directory, which includes two submodules:
 
+```
 model/
 ├── Truss-Tokenizer/
 │   ├── best_model.pt         
@@ -14,7 +15,8 @@ model/
 │   ├── E33.pt                
 │   ├── SS.pt                
 │   ├── E33v21.pt              
-│   └── E11E22E33v21.pt       
+│   └── E11E22E33v21.pt        
+```
 
 # 🔗 Download Trained Weights (Baidu Netdisk)
 You can download all model weights from the following link:
