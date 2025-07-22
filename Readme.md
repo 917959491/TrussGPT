@@ -36,10 +36,12 @@ streamlit run main.py
 ```
 
 # 🚀 Key Features
+```
 1、Inverse design from mechanical properties (e.g., Young’s modulus, Poisson’s ratio)
 2、Structure generation based on full stress–strain curves
 3、Natural language interaction for intuitive design and analysis
 4、Significantly faster and more accurate than traditional optimization-based methods
+```
 
 # 🛠️ Key Dependencies
 Ensure the following core packages are installed to avoid compatibility issues:
