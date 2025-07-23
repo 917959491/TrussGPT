@@ -28,7 +28,7 @@ sentencepiece	0.2.0
 ```
 
 # 📁 Model Weight Structure (model/)
-The model weights required for this project are organized under the model/ directory, which includes two submodules:
+The model weights required for this project are organized under the model/ directory, which includes two submodules for Truss-Tokenizer and TrussGPT-Designer.
 
 ```
 model/
