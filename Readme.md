@@ -44,7 +44,7 @@ model/
 │   └── E11E22E33v21.pt        
 ```
 
-# 🔗 Download Trained Weights (Baidu Netdisk)
+# 🔗 Download Trained Weights 
 You can download all model weights from the following link:
 
 📦 Baidu Netdisk:
