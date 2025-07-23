@@ -22,8 +22,10 @@ model/
 You can download all model weights from the following link:
 
 📦 Baidu Netdisk:
-https://pan.baidu.com/s/xxxxxxxx
-Extraction Code: xxxx
+```
+https://pan.baidu.com/s/1UEIwbZD71x-gqlSIMIcScg 
+Extraction Code: zjpi 
+``` 
 
 After downloading, please place all .pt files into their respective directories under model/Truss-Tokenizer/ and model/TrussGPT-Designer/.
 
